@@ -1,6 +1,6 @@
 This repo is for my frontend projects — both old and new. I’ll be deploying a few demos here first, just to get things rolling. The source code will be added later, once i clean things up a bit.
 ## City 
-[Link](city.harrypham.dev)
+[Link](https://city.harrypham.dev)
 
 A randomly generated city you can rotate and zoom around. Supports light/dark mode.
 Built with plain old HTML/CSS/JS and three.js — nothing fancy.
